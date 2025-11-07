@@ -65,7 +65,7 @@ class About extends Me {
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   اسألني عن تطوير الخلفيات، البرمجة بلارافيل، قواعد البيانات، أو تطوير واجهات برمجية.﻿
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   تواصل معي عبر تيليجرام:﻿ SP-XD﻿(https://t.me/spxd007)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   تواصل معي عبر تيليجرام:﻿ MG﻿(https://wa.me/+201030702427)
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    معلومة طريفة:﻿ العمل الذهني المكثف قد يحرق سعرات حرارية مشابهة.﻿
 
