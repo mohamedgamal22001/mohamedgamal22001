@@ -46,16 +46,17 @@
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
+class About extends Me {
+  const myTools = [
+    "ProgrammingLanguages" => ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL"],
+    "OtherLanguages" => ["Bash", "JSON", "Markdown"],
+    "Database" => ["Firebase", "SQLite"],
+    "Editors" => ["Visual Studio Code", "Sublime Text", "Neovim"],
+    "Platforms" => ["Windows", "GNU/Linux"],
+    "OtherTools" => ["Git", "Figma", "Postman", "Bootstrap", "TailwindCSS"]
+  ];
 }
+
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
