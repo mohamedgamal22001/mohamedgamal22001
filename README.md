@@ -47,6 +47,16 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=flat&logo=objective-c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 ```dart
 // tools_I_use organized
