@@ -69,7 +69,20 @@ class About extends Me {
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    معلومة طريفة:﻿ العمل الذهني المكثف قد يحرق سعرات حرارية مشابهة.﻿
 
-<div align="center" > <a href="https://github.com/SP-XD"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>[المزيد من الإحصاءات](pplx://action/translate)</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
+<div align="center" >
+  <a href="https://github.com/mohamedgamal22001">
+    <img src="https://raw.githubusercontent.com/mohamedgamal22001/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/mohamedgamal22001/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/mohamedgamal22001/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
+
+  <details>
+    <summary>[translate:المزيد من الإحصاءات]</summary>
+    <img align="center" src="https://raw.githubusercontent.com/mohamedgamal22001/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+  </details>
+  <hr></hr>
+</div>
+
 دورة الكود﻿:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="[نظام معطل!](pplx://action/translate)"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="[يعمل!](pplx://action/translate)"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="[يعمل لكن لا تعرف كيف!](pplx://action/translate)"/><br> </div>
